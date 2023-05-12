@@ -1,6 +1,4 @@
-// n queens
-// yash rajput
-// 19 march 2022
+
 
 #include <bits/stdc++.h>
 using namespace std;
