@@ -1,5 +1,4 @@
-//yash rajput
-//03-03-2022
+
 #include <bits/stdc++.h>
 using namespace std;
 #define line cout << "_________________________________________________\n";
